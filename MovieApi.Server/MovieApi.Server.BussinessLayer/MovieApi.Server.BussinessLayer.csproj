@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieApi.Server.DataAccessLayer\MovieApi.Server.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\MovieApi.Server.EntityLayer\MovieApi.Server.EntityLayer.csproj" />
+  </ItemGroup>
+
+</Project>

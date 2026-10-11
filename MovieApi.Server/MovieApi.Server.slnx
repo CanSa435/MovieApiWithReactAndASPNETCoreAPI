@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MovieApi.Server.BussinessLayer/MovieApi.Server.BussinessLayer.csproj" Id="e9298bb7-ec73-4602-93ce-fe20371e8f35" />
+  <Project Path="MovieApi.Server.DataAccessLayer/MovieApi.Server.DataAccessLayer.csproj" />
+  <Project Path="MovieApi.Server.Dtos/MovieApi.Server.Dtos.csproj" Id="50e08760-1329-4019-9946-450bca1f63ab" />
+  <Project Path="MovieApi.Server.EntityLayer/MovieApi.Server.EntityLayer.csproj" />
+  <Project Path="MovieApi.Server.WebApi/MovieApi.Server.WebApi.csproj" Id="ea97dcd7-d558-498e-ba01-91b5c5ae9cb9" />
+</Solution>
