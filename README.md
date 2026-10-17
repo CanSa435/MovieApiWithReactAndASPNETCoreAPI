@@ -17,3 +17,5 @@ ASP.NET Core Web API ve React kullanılarak geliştirilmiş basit bir film liste
 - React
 - TailwindCSS
 - MaterialUI
+- Typescript
+  
