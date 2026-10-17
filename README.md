@@ -14,8 +14,9 @@ ASP.NET Core Web API ve React kullanılarak geliştirilmiş basit bir film liste
 - Entity Framework Core, SQL Server
    
 **Frontend**
-- React
+- React 
+- Typescript
 - TailwindCSS
 - MaterialUI
-- Typescript
+
   
